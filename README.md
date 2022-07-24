@@ -10,3 +10,7 @@
 
 All the files related to my project are in gamedev.RAR.
 
+
+
+I have attached all the C# Scripts together with the things I have made in blender.
+
