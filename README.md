@@ -1,7 +1,7 @@
-# Game Development – Science Simulation | Self Project (June’22-July’22)
-● Created Science Simulation in Unity 3D using blender and C# code.
-● Made object for the Science Simulation using Blender.
-● Made button icons (Reset, Book and See buttons) and added motion to the objects using C# code.
+# Game Development – Flappy Bird | Self Project (Dec’22-Jan’23)
+● Created Flappy Bird in Unity 2D using blender and C# code.
+● Made object for the Flappy Bird in Unity 2D using Blender.
+● Made the whole setup in Unity and added motion to the objects using C# code.
 
 
 
